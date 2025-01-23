@@ -3,7 +3,7 @@
   "author": "1",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://github.com/wsox18/test/blob/main",
+  "fileApi": "https://raw.githubusercontent.com/wsox18/test/refs/heads/main",
   "files": [
     {
       "path": "config/tacz/custom/82laffey1.7.zip",

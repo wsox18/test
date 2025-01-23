@@ -1,0 +1,331 @@
+{
+  "name": "1.20.1",
+  "author": "1",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://github.com/wsox18/test/blob/main",
+  "files": [
+    {
+      "path": "config/tacz/custom/82laffey1.7.zip",
+      "hash": "2b34b0f86ff07e4ea15b739251c6e84f95066dfb"
+    },
+    {
+      "path": "config/tacz/custom/bluearchive.zip",
+      "hash": "0ad3ac664a9d7bb6ca13527404df7f31e071cb43"
+    },
+    {
+      "path": "config/tacz/custom/JAK v1.0.5pre7fix1.zip",
+      "hash": "3a5404712b6ef1d1a1ef12e2e9594bf59f64ecb2"
+    },
+    {
+      "path": "config/tacz/custom/TitanFall0.1fix.zip",
+      "hash": "eea6eedec733654bc779beff922fd83369e07015"
+    },
+    {
+      "path": "config/tacz/custom/[TACZ]classics_reborn v1.0.5 preview hotfix.zip",
+      "hash": "d02a05e73bde39ea38a4e5ce044c75511da43b38"
+    },
+    {
+      "path": "mods/ApothicAttributes-1.20.1-1.3.7.jar",
+      "hash": "1dc0744d17f0861fe6b067798d39abce9d8e0e86"
+    },
+    {
+      "path": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "hash": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5"
+    },
+    {
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "hash": "fa834f140bf7dce7b67c29b46cb531f4309d3209"
+    },
+    {
+      "path": "mods/curios-forge-5.10.0+1.20.1.jar",
+      "hash": "e430429e33a1aee50c2baf917daadc0bbb9104ed"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.4.9.jar",
+      "hash": "5785defa2cca8387d84a65bef3027d611c73a1aa"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.19.5.99.jar",
+      "hash": "f3db9d73014ccf5838f0f299dcaae95f5a7c34e6"
+    },
+    {
+      "path": "mods/Placebo-1.20.1-8.6.2.jar",
+      "hash": "dacfb5429e4a7902203e417c78aab6e0d5087255"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+    },
+    {
+      "path": "mods/Xaero的世界地图XaerosWorldMap_1.39.0_Forge_1.20.jar",
+      "hash": "33704b6dd2ee6fbf1da0cffcf2001bf7f1c3dea4"
+    },
+    {
+      "path": "mods/Xaero的小地图Xaeros_Minimap_24.4.0_Forge_1.20.jar",
+      "hash": "2ec40354f13729c18a9f3bc51c2e3d2fbcc0d165"
+    },
+    {
+      "path": "mods/传送石碑指路石waystones-forge-1.20-14.1.5.jar",
+      "hash": "b0fe1cc86273344960aad4fd43efa1be31aa1172"
+    },
+    {
+      "path": "mods/传送石碑指路石前置balm-forge-1.20.1-7.3.9-all.jar",
+      "hash": "e041f044d707dd06a6efa2c63b39f26abf60f671"
+    },
+    {
+      "path": "mods/储物抽屉StorageDrawers-1.20.1-12.9.2.jar",
+      "hash": "d16fbe6e412354b0c5acead562749dd990d939cd"
+    },
+    {
+      "path": "mods/光影oculus-mc1.20.1-1.7.0.jar",
+      "hash": "27410903d3af950378776106b76503cfebe7ea3a"
+    },
+    {
+      "path": "mods/动态光源sodiumdynamiclights-forge-1.0.8-1.20.1.jar",
+      "hash": "13719a0ec4c04347c402630ef278f2e21ba91f71"
+    },
+    {
+      "path": "mods/应用能源2appliedenergistics2-forge-15.2.13.jar",
+      "hash": "73468f3fa3fffe042fabb5b47dc67c7bf722cdc7"
+    },
+    {
+      "path": "mods/应用能源：通用机械附属Applied-Mekanistics-1.4.2.jar",
+      "hash": "1c6742e3ac2662844c720a42728a10bb9648d13b"
+    },
+    {
+      "path": "mods/懒人厨房又名神奇水槽cookingforblockheads-forge-1.20.1-16.0.9.jar",
+      "hash": "825c355137405812a74b02e74da4c49c823ec95d"
+    },
+    {
+      "path": "mods/搬运carryon-forge-1.20.1-2.1.2.7.jar",
+      "hash": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f"
+    },
+    {
+      "path": "mods/旅行者背包travelersbackpack-forge-1.20.1-9.1.15.jar",
+      "hash": "7190d7e84d32b7b53cd2dfd13ab60764720fed75"
+    },
+    {
+      "path": "mods/是，史蒂夫模型yesstevemodel-forge-1.20-2.2.2.jar",
+      "hash": "431d936e277ff19e578d844003b41d605ea9555d"
+    },
+    {
+      "path": "mods/更好的植物盆栽BotanyPotsTiers-Forge-1.20.1-6.0.1.jar",
+      "hash": "890d67355da2d82863cc4e1efab480bc6b011c0d"
+    },
+    {
+      "path": "mods/机械动力create-1.20.1-0.5.1.h.jar",
+      "hash": "934a4a1e085b867756fb404fd92309fbb0ff3a48"
+    },
+    {
+      "path": "mods/机械动力优化oculus-flywheel-compat-forge1.20.1+1.1.3.jar",
+      "hash": "a3e28da62ac714c243f9def32e7610a88dd61595"
+    },
+    {
+      "path": "mods/检测器theoneprobe-1.20.1-10.0.2.jar",
+      "hash": "58417caff5fc257ce28eb14c6293897fce0f1a87"
+    },
+    {
+      "path": "mods/植树盆栽BotanyTrees-Forge-1.20.1-9.0.17.jar",
+      "hash": "a614ca44d0f7ce118da73821c59d419eb69b71ec"
+    },
+    {
+      "path": "mods/植物盆栽BotanyPots-Forge-1.20.1-13.0.39.jar",
+      "hash": "c1e33db0edc008f0626712dc1a389947820224e4"
+    },
+    {
+      "path": "mods/植物盆栽的前置Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "hash": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5"
+    },
+    {
+      "path": "mods/植物盆栽矿石种植BotanyPotsOrePlanting-Forge-7.22.0+1.20.1.jar",
+      "hash": "117b07ff211a518325c667eb83f5735e65f81c75"
+    },
+    {
+      "path": "mods/永恒枪械工坊：零,机械动力createtaczauto-1.1.1-forge-1.20.1.jar",
+      "hash": "c8d0f8d3798cd58db86856906dca0f4a856f60e1"
+    },
+    {
+      "path": "mods/永恒枪械工坊：零tacz-1.20.1-1.0.3-all.jar",
+      "hash": "660258d475747050aa4ffd5392a32ed383d6452b"
+    },
+    {
+      "path": "mods/永恒枪械工坊：零，枪Fibers Gunspack Forge v1.3.5 BETA (1.18.2-1.20.1).jar",
+      "hash": "69e0581dcbf6808b668ae9765674f2fb506decaf"
+    },
+    {
+      "path": "mods/物品栏HUD+inventoryhud.forge.1.20.1-3.4.26.jar",
+      "hash": "f0adda10a3d6549e6dfdffd41e72270c61c8a302"
+    },
+    {
+      "path": "mods/神化Apotheosis-1.20.1-7.4.3.jar",
+      "hash": "301ded73e26a178cb2673a3e9e02235afbf824b6"
+    },
+    {
+      "path": "mods/神化：现代诸神黄昏apotheosis_modern_ragnarok-1.20.1-2.2.1.jar",
+      "hash": "059334d6e94381b165afc094229cccae713af687"
+    },
+    {
+      "path": "mods/精妙核心sophisticatedcore-1.20.1-0.6.33.711.jar",
+      "hash": "4a29f3f33a35c1d63d1f5ee168eac3b2f9a67596"
+    },
+    {
+      "path": "mods/精妙背包sophisticatedbackpacks-1.20.1-3.20.11.1115.jar",
+      "hash": "099ec016d2b0f000705da7768201195adea2d31f"
+    },
+    {
+      "path": "mods/绿葡萄附属包lradd-1.20.1-0.2.3.jar",
+      "hash": "4128ef13fbf277309aa5451fa5b3635b0d7178ab"
+    },
+    {
+      "path": "mods/网络音乐机netmusic-1.20.1-1.1.3.jar",
+      "hash": "8aa994509c19500deaa866916c0acd43c03e184a"
+    },
+    {
+      "path": "mods/自动汉化更新I18nUpdateMod-3.5.5-all.jar",
+      "hash": "ba8e5aa31d719b6fdac13c88bf388da579d4cab6"
+    },
+    {
+      "path": "mods/车万女仆touhoulittlemaid-1.20.1-release-1.1.12-hotfix2.jar",
+      "hash": "cb1736f912e138146dec95d09e74f1a5226d6147"
+    },
+    {
+      "path": "mods/输入法冲突修复IMBlocker_4.0.5+1.20.jar",
+      "hash": "3c0f0d4552b1efee8797afb600b830ddc7689d8f"
+    },
+    {
+      "path": "mods/通用拼音搜索jecharacters-1.20.1-forge-4.5.10.jar",
+      "hash": "62d81efb6bb8f0fac3b0de7688407483b17a7561"
+    },
+    {
+      "path": "mods/通用机械-更多太阳能板Mekanism-MoreSolarPanels-1.20.1-1.5.9.jar",
+      "hash": "fe1c2b785713496a0b2fc1f65a3c994b691fa61f"
+    },
+    {
+      "path": "mods/通用机械Mekanism-1.20.1-10.4.9.61.jar",
+      "hash": "b2b72fa03a0a4b476fbfd6126da6fed4434aca55"
+    },
+    {
+      "path": "mods/通用机械发电机MekanismGenerators-1.20.1-10.4.9.61.jar",
+      "hash": "37c352a49a089f88e1bd9d8b6f2b8762cd86e293"
+    },
+    {
+      "path": "mods/通用机械工具MekanismTools-1.20.1-10.4.9.61.jar",
+      "hash": "6010c6afa8501f319679cf43986d652fd62b7044"
+    },
+    {
+      "path": "mods/通用机械附加MekanismAdditions-1.20.1-10.4.9.61.jar",
+      "hash": "96fe9c23bc9184e11742eade33176f48d6a72813"
+    },
+    {
+      "path": "mods/铷 · 扩展rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
+      "hash": "af8b057d1b6a1844da59fa3680c4f847ea6a2aba"
+    },
+    {
+      "path": "mods/铷++embeddiumplus-1.20.1-v1.2.13.jar",
+      "hash": "d922515ae0f16af2afdddfd72243a4890a2c7ad8"
+    },
+    {
+      "path": "mods/铷embeddium-0.3.31+mc1.20.1.jar",
+      "hash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+    },
+    {
+      "path": "mods/防弹附魔bulletarmorenchant-1.1-1.20.1 .jar",
+      "hash": "64899e1f7e9b71922681f96360aa1d1932dbcad9"
+    },
+    {
+      "path": "mods/鞘翅插槽elytraslot-forge-6.4.3+1.20.1.jar",
+      "hash": "f89a72686f410dbeb73bc4cbb2dafbbca44c9225"
+    },
+    {
+      "path": "tlm_custom_pack/2b_test_sound-1.0.0.zip",
+      "hash": "30c9d9bcdb3bd2419e42158e81e6757cb5beb9cd"
+    },
+    {
+      "path": "tlm_custom_pack/anime_model_pack-1.0.zip",
+      "hash": "77760f80f74f369d854eae76beb0722cd5c561d6"
+    },
+    {
+      "path": "tlm_custom_pack/azuru_line-1.2.0.zip",
+      "hash": "a141d1e4622bcfc668e599b1cf5c056b09e117fb"
+    },
+    {
+      "path": "tlm_custom_pack/bilanhangxian-1.0.0.zip",
+      "hash": "87681882b36b8f3def8fb3415940bba9147e720e"
+    },
+    {
+      "path": "tlm_custom_pack/changchun-1.0.0.zip",
+      "hash": "935c16546eafd63036d08b68ae19c520667edf69"
+    },
+    {
+      "path": "tlm_custom_pack/genshin_impact-1.1.6.zip",
+      "hash": "116a5441e2410f34626ba031fd39e4c585bf5904"
+    },
+    {
+      "path": "tlm_custom_pack/hanaya_baka-1.1.4.zip",
+      "hash": "f494eb8617371e14d2d7d352e26005826a773a44"
+    },
+    {
+      "path": "tlm_custom_pack/hollow_nagato-1.0.0.zip",
+      "hash": "a59db190299e317cc55e106f03caede99b2719bb"
+    },
+    {
+      "path": "tlm_custom_pack/honkai_impact_3-3.0.0.zip",
+      "hash": "617dabb0e099bc8f9b59e00400e810ee69896786"
+    },
+    {
+      "path": "tlm_custom_pack/lanternrite_festival-1.0.5.zip",
+      "hash": "46d37963ad7450466016e928219cb6bf16c7f148"
+    },
+    {
+      "path": "tlm_custom_pack/national_sachet-1.0.6.zip",
+      "hash": "247b9c97ad16603f4fc965727ca0f740781c0a38"
+    },
+    {
+      "path": "tlm_custom_pack/nekoparaii-1.1.0.zip",
+      "hash": "237f90bc96fe80c701b7ca79185a73e3888fc3b0"
+    },
+    {
+      "path": "tlm_custom_pack/nier_automata3-3.0.0.zip",
+      "hash": "b4abc4949ee64fc95ed6dcc798f6ed2f7800a413"
+    },
+    {
+      "path": "tlm_custom_pack/ppshfemaline-1.0.1.zip",
+      "hash": "c14953bb8e333cca546548e1c4e24b7ef21b3c5e"
+    },
+    {
+      "path": "tlm_custom_pack/senko_san_ysm-1.0.0.zip",
+      "hash": "908415c9e9d887b71047b476b0b4295515b80c30"
+    },
+    {
+      "path": "tlm_custom_pack/shinkaiseikan-1.0.0.zip",
+      "hash": "089e66fc2b4f466c2fda02d0072690a554c083b0"
+    },
+    {
+      "path": "tlm_custom_pack/stonaphrospack-0.0.1.zip",
+      "hash": "3166eb9827152d1573292d5ae81992275ac872b7"
+    },
+    {
+      "path": "tlm_custom_pack/takanashi_hoshino-1.0.0.zip",
+      "hash": "eb55b926d0731c91eadcd88a1292c28f6943980e"
+    },
+    {
+      "path": "tlm_custom_pack/tartaric_acid_things-1.1.2.zip",
+      "hash": "03e220162135b306f3ac57a6254060a039607382"
+    },
+    {
+      "path": "tlm_custom_pack/touhou_little_maid-1.0.0.zip",
+      "hash": "3b56611d1c62b51385d5ec5c1fc47d7577029819"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.3.10"
+    }
+  ]
+}

@@ -6,6 +6,26 @@
   "fileApi": "https://raw.githubusercontent.com/wsox18/test/refs/heads/main",
   "files": [
     {
+      "path": "config/tacz/custom/82laffey1.7.zip",
+      "hash": "2b34b0f86ff07e4ea15b739251c6e84f95066dfb"
+    },
+    {
+      "path": "config/tacz/custom/bluearchive.zip",
+      "hash": "0ad3ac664a9d7bb6ca13527404df7f31e071cb43"
+    },
+    {
+      "path": "config/tacz/custom/JAK v1.0.5pre7fix1.zip",
+      "hash": "3a5404712b6ef1d1a1ef12e2e9594bf59f64ecb2"
+    },
+    {
+      "path": "config/tacz/custom/TitanFall0.1fix.zip",
+      "hash": "eea6eedec733654bc779beff922fd83369e07015"
+    },
+    {
+      "path": "config/tacz/custom/[TACZ]classics_reborn v1.0.5 preview hotfix.zip",
+      "hash": "d02a05e73bde39ea38a4e5ce044c75511da43b38"
+    },
+    {
       "path": "mods/ApothicAttributes-1.20.1-1.3.7.jar",
       "hash": "1dc0744d17f0861fe6b067798d39abce9d8e0e86"
     },
@@ -216,6 +236,86 @@
     {
       "path": "mods/鞘翅插槽elytraslot-forge-6.4.3+1.20.1.jar",
       "hash": "f89a72686f410dbeb73bc4cbb2dafbbca44c9225"
+    },
+    {
+      "path": "tlm_custom_pack/2b_test_sound-1.0.0.zip",
+      "hash": "30c9d9bcdb3bd2419e42158e81e6757cb5beb9cd"
+    },
+    {
+      "path": "tlm_custom_pack/anime_model_pack-1.0.zip",
+      "hash": "77760f80f74f369d854eae76beb0722cd5c561d6"
+    },
+    {
+      "path": "tlm_custom_pack/azuru_line-1.2.0.zip",
+      "hash": "a141d1e4622bcfc668e599b1cf5c056b09e117fb"
+    },
+    {
+      "path": "tlm_custom_pack/bilanhangxian-1.0.0.zip",
+      "hash": "87681882b36b8f3def8fb3415940bba9147e720e"
+    },
+    {
+      "path": "tlm_custom_pack/changchun-1.0.0.zip",
+      "hash": "935c16546eafd63036d08b68ae19c520667edf69"
+    },
+    {
+      "path": "tlm_custom_pack/genshin_impact-1.1.6.zip",
+      "hash": "116a5441e2410f34626ba031fd39e4c585bf5904"
+    },
+    {
+      "path": "tlm_custom_pack/hanaya_baka-1.1.4.zip",
+      "hash": "f494eb8617371e14d2d7d352e26005826a773a44"
+    },
+    {
+      "path": "tlm_custom_pack/hollow_nagato-1.0.0.zip",
+      "hash": "a59db190299e317cc55e106f03caede99b2719bb"
+    },
+    {
+      "path": "tlm_custom_pack/honkai_impact_3-3.0.0.zip",
+      "hash": "617dabb0e099bc8f9b59e00400e810ee69896786"
+    },
+    {
+      "path": "tlm_custom_pack/lanternrite_festival-1.0.5.zip",
+      "hash": "46d37963ad7450466016e928219cb6bf16c7f148"
+    },
+    {
+      "path": "tlm_custom_pack/national_sachet-1.0.6.zip",
+      "hash": "247b9c97ad16603f4fc965727ca0f740781c0a38"
+    },
+    {
+      "path": "tlm_custom_pack/nekoparaii-1.1.0.zip",
+      "hash": "237f90bc96fe80c701b7ca79185a73e3888fc3b0"
+    },
+    {
+      "path": "tlm_custom_pack/nier_automata3-3.0.0.zip",
+      "hash": "b4abc4949ee64fc95ed6dcc798f6ed2f7800a413"
+    },
+    {
+      "path": "tlm_custom_pack/ppshfemaline-1.0.1.zip",
+      "hash": "c14953bb8e333cca546548e1c4e24b7ef21b3c5e"
+    },
+    {
+      "path": "tlm_custom_pack/senko_san_ysm-1.0.0.zip",
+      "hash": "908415c9e9d887b71047b476b0b4295515b80c30"
+    },
+    {
+      "path": "tlm_custom_pack/shinkaiseikan-1.0.0.zip",
+      "hash": "089e66fc2b4f466c2fda02d0072690a554c083b0"
+    },
+    {
+      "path": "tlm_custom_pack/stonaphrospack-0.0.1.zip",
+      "hash": "3166eb9827152d1573292d5ae81992275ac872b7"
+    },
+    {
+      "path": "tlm_custom_pack/takanashi_hoshino-1.0.0.zip",
+      "hash": "eb55b926d0731c91eadcd88a1292c28f6943980e"
+    },
+    {
+      "path": "tlm_custom_pack/tartaric_acid_things-1.1.2.zip",
+      "hash": "03e220162135b306f3ac57a6254060a039607382"
+    },
+    {
+      "path": "tlm_custom_pack/touhou_little_maid-1.0.0.zip",
+      "hash": "3b56611d1c62b51385d5ec5c1fc47d7577029819"
     }
   ],
   "addons": [
